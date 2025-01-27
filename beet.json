@@ -1,0 +1,12 @@
+{
+	"output": ".dist/",
+	"data_pack": {
+		"load": ["."]
+	},
+	"pipeline": ["mcbuild"],
+	"meta": {
+		"mcbuild": {
+			"source": "./mcbuild"
+		}
+	}
+}
